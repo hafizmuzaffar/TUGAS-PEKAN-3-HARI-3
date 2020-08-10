@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -79,3 +80,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel-1
 # laravel-1
 # tugas-3
+=======
+# TUGAS-PEKAN-3-HARI-3
+>>>>>>> 8d7b50391764b276f048efdb15ab74998897db9b
+# crud-laravel
